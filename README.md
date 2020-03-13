@@ -1,1 +1,1 @@
-# javapmmldemo
+# javapmmlexample
